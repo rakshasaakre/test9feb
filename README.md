@@ -1,0 +1,2 @@
+# Automationteststore
+ EcommerceAutomationCode
